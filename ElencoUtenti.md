@@ -19,5 +19,4 @@ Per cortesia aggiungete qui di seguito l'elenco dei vostri usernames su github
 - albertoarchetti - Alberto Archetti
 - Gianpiero1 - Gianpiero Capriotti
 - SilviaGavioli - Silvia Gavioli
-- GiuliaRossetti - Giulia Rossetti
-- MatteoGhioni99 - Matteo Ghioni
+- Ale96Mutarel - Alessandro Ortelli
